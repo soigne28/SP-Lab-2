@@ -1,0 +1,7 @@
+273836 Edsger Dijkstra 93000
+493570 Leslie Lamport 63000
+518364 Vint Cerf 85000
+998447 Barbara Liskov 75000
+998447 Sally Liskov 15000
+998447 Sara Liskov 50000
+493570 Steve Lamport 63000
